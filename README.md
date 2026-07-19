@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/SyedMuhammadSajawalHussain/SoftBits-Assistant/blob/main/Icon.png" alt="SoftBits Assistant Logo" width="200" height="200">
+</p>
+
 # SoftBits Assistant
 
 **Tagline:** "Don't Lose What's Special Online"  
